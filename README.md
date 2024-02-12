@@ -2,6 +2,12 @@
 
 This project aims to create a high-performance cache management library. It offers two different cache storage mechanisms: in-memory cache and Redis-based cache.
 
+### Installation
+
+```
+npm i cache-manage-library
+```
+
 ## Features
 
 - In-memory cache: A caching mechanism that runs in the application's memory.

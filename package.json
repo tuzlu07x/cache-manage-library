@@ -10,7 +10,9 @@
   "keywords": [
     "cache",
     "önbellek",
-    "yönetimi"
+    "yönetimi",
+    "redis",
+    "cache manage library"
   ],
   "author": "Fatih Tuzlu",
   "license": "MIT",

@@ -1,6 +1,6 @@
 {
   "name": "cache-manage-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yüksek performanslı önbellek yönetimi kütüphanesi",
   "main": "src/CacheManager.ts",
   "types": "src/CacheManager.d.ts",
